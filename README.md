@@ -1,7 +1,7 @@
 # proportion
 
-### tiny, easy jquery proportion plugin
------------------------------------
+### tiny, easy jquery proportion helper
+----------------------------
 
 Use...
 
