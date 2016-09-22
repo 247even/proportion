@@ -1,6 +1,6 @@
 # proportion
 
-### tiny, easy jquery proportion helper
+### tiny, easy (jquery) proportion helper
 ----------------------------
 
 Use...
